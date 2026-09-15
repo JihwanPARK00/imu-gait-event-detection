@@ -1,0 +1,27 @@
+# raw subject data and ground truth (not public)
+imu/*.xlsx
+output/synced/*.csv
+output/**/*.mp4
+output/**/*.avi
+
+# generated results, caches, trained models
+results/
+!results/.gitkeep
+*.npz
+*.pt
+*.pth
+*.png
+*.pdf
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# editors / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
