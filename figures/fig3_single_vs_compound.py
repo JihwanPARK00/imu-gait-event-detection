@@ -1,3 +1,4 @@
+# Fig 3: single vs compound perturbation degradation ratio comparison
 """
 Fig. 3 - Single-product vs. measured compound DR
 """
